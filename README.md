@@ -1,4 +1,4 @@
-# HTML script tag does NOT need a type
+# HTML script tag does NOT require a type
 
 ...if it's JS and not e.g. [JSON-LD](https://json-ld.org/).
 
